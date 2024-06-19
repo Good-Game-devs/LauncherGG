@@ -1,0 +1,20 @@
+{
+  "name": "launchergg",
+  "version": "0.1.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build-all": "electron-builder -wl"
+  },
+  "author": "Miguel V. Mesquita",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "electron": "^31.0.1"
+  },
+  "build": {
+    "appID": "dev.mig.gg.launcher"
+  }
+}

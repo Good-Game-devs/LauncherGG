@@ -1,0 +1,34 @@
+body {
+  background: black;
+  color: white;
+  font-family: Segoe UI;
+}
+
+.side-bar {
+  height: 100%;
+  float: left;
+  background: relative;
+  text-align: left;
+}
+
+.play-btn {
+   background: green;
+   border-radius: 0;
+   font-family: monospace;
+   font-size: large;
+}
+
+.settings {
+  margin: 0 auto;
+}
+
+.settings-page {
+  background: url(./img/sbg.png);
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  object-position: center;
+  margin: 0 auto;
+}
+
+
