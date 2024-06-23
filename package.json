@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "build-all": "electron-builder -wl"
+    "build-all": "electron-builder -wl",
+    "build-linux": "electron-builder -l",
+    "build-win32": "electron-builder -w"
   },
   "author": "Miguel V. Mesquita",
   "license": "MIT",
