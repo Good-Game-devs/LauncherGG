@@ -1,1 +1,1 @@
-header{font-family:'Courier New', Courier, monospace}
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");header{font-family:'Courier New', Courier, monospace}

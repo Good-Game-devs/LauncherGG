@@ -13,15 +13,17 @@
   "author": "Miguel V. Mesquita",
   "license": "MIT",
   "dependencies": {
+    "@material/web": "^1.5.1",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "sass": "^1.77.6"
+    "sass": "^1.77.6",
+    "typescript": "^5.5.2"
   },
   "build": {
     "appID": "dev.mig.gg.launcher"
   },
   "devDependencies": {
-    "electron-builder": "^24.13.3",
-    "electron": "^31.0.1"
+    "electron": "^31.0.1",
+    "electron-builder": "^24.13.3"
   }
 }
