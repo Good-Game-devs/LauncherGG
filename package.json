@@ -20,7 +20,7 @@
     "typescript": "^5.5.2"
   },
   "build": {
-    "appID": "dev.mig.gg.launcher"
+    "appId": "dev.mig.gg.launcher"
   },
   "devDependencies": {
     "electron": "^31.0.1",
